@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RUDrunk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_drunk_test">DrunkTest</string>
+    <string name="Yes">Yes</string>
+    <string name="Maybe">Maybe</string>
+    <string name="Submit">Submit</string>
+    <string name="Loading">Loading Address...</string>
+    <string name="title_activity_front">Front</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

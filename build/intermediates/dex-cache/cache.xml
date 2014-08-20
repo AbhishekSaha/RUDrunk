@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/abhisheksaha/AndroidStudioProjects/RUDrunk1/app/build/intermediates/pre-dexed/release/classes-5a2ffd21a83df9efad3def6024d728989c850b86.jar"
+        jar="/Users/abhisheksaha/AndroidStudioProjects/RUDrunk1/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89"/>
+    <item
+        dex="/Users/abhisheksaha/AndroidStudioProjects/RUDrunk1/app/build/intermediates/pre-dexed/release/support-v4-19.0.0-368054dfda89bdffa0588ae338ee8c1cb3416107.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa"/>
+    <item
+        dex="/Users/abhisheksaha/AndroidStudioProjects/RUDrunk1/app/build/intermediates/pre-dexed/release/support-v4-19.0.0-368054dfda89bdffa0588ae338ee8c1cb3416107.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa"/>
+    <item
+        dex="/Users/abhisheksaha/AndroidStudioProjects/RUDrunk1/app/build/intermediates/pre-dexed/release/classes-5a2ffd21a83df9efad3def6024d728989c850b86.jar"
+        jar="/Users/abhisheksaha/AndroidStudioProjects/RUDrunk1/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89"/>
+
+</pre-dex-items>

@@ -1,0 +1,38 @@
+<RelativeLayout 
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_width="fill_parent" 
+ android:layout_height="fill_parent"
+ android:layout_marginRight="8dp"
+ android:layout_marginLeft="8dp"
+ android:layout_centerVertical="true">
+
+    <Button
+        android:id="@+id/maybe"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="30dp"
+        android:text="Maybe? I'm not sure"
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/yes"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_above="@+id/maybe"
+        android:layout_alignParentLeft="true"
+        android:text="Yes! Call me a cab!"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RUDrunk?"
+        android:textSize="30sp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/textView"
+        android:layout_above="@+id/yes"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
